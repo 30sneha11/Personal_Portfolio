@@ -3,7 +3,7 @@
 Welcome to my personal portfolio website!
 
 ## About Me
-I am [Your Name], a passionate [Your Role — e.g., Front-End Developer, Full-Stack Developer, Software Engineer] who loves creating clean and responsive websites. This portfolio showcases my skills, projects, and experience in web development.
+I am Sneha, a passionateweb developer, who loves creating clean and responsive websites. This portfolio showcases my skills, projects, and experience in web development.
 
 ## Project Overview
 This project is a personal portfolio website built using:
