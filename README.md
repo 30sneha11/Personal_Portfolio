@@ -30,7 +30,7 @@ You can view this portfolio by opening the `index.html` file in any modern web b
 
 ## Contact
 Feel free to get in touch!  
-Email: your.snehamandalsm23@gmail.com  
+Email: snehamandalsm23@gmail.com  
 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/sneha-mandal-ba08a6287)  
 GitHub: [Your GitHub Profile](https://github.com/30sneha11)
 
